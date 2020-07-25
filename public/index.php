@@ -1,6 +1,6 @@
 <?php
 
-// Hello Demo
+// Hello Demo2
 
 /*use SilverStripe\Control\HTTPApplication;
 use SilverStripe\Control\HTTPRequestBuilder;
