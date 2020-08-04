@@ -1,6 +1,6 @@
 <?php
 
-// Hello Demo
+// Hello /serverless/NIGHTS
 
 use SilverStripe\Control\HTTPApplication;
 use SilverStripe\Control\HTTPRequestBuilder;
