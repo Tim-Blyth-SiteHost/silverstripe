@@ -1,6 +1,6 @@
 <?php
 
-// Hello /serverless/NIGHTS
+// Hello /serverless/NIGHTS - Auckland
 
 /*use SilverStripe\Control\HTTPApplication;
 use SilverStripe\Control\HTTPRequestBuilder;
