@@ -3,7 +3,7 @@
 ## Overview
 
 Sample project to demonstrate the capabilities of
-[SilverStripe CMS](http://www.silverstripe.org).
+[SilverStripe CMS](http://www.silverstripe.org)..
 Hosted on [https://demo.silverstripe.org](https://demo.silverstripe.org).
 
 See [https://silverstripe.org/try](https://silverstripe.org/try) for a list of available demos.
